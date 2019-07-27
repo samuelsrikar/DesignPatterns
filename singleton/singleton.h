@@ -1,3 +1,5 @@
+//Signleton Design pattern 
+
 #ifndef signleton_h
 #define signleton_h
 
