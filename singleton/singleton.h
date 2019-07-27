@@ -3,7 +3,7 @@
 #ifndef signleton_h
 #define signleton_h
 
-#include "../standard.h"
+#include "standard.h"
 
 class singleton{
 
